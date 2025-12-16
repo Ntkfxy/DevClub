@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'devclub_db';
+$dbname = 'members';
 $username = 'root'; // ค่าเริ่มต้นของ XAMPP
 $password = '';     // ค่าเริ่มต้นของ XAMPP คือว่างไว้
 
